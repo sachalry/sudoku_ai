@@ -3,4 +3,3 @@ Un projet Python pour résoudre automatiquement des grilles de Sudoku grâce à 
 - Backtracking
 - Heuristique (MRV)
 - Propagation de contraintes
-- Interface graphique Tkinter
